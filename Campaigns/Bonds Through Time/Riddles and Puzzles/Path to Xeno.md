@@ -7,3 +7,5 @@ Find the cubes across Abrax to take the first step.
 Once the 7 Heavenly Spirits are released from their locations the party will get a joint vision when they next take a long rest.
 *the vision*
 You find yourselves unable to move and as you look to your left and right you see the others standing beside you and looking ahead you see 6 figures, these figures are the gods that marked you.
+
+#### Third Clue (Xeno's Final Move)
