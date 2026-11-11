@@ -1,0 +1,1 @@
+Twice per week you can cause up to 5 creatures to take more or less initiative in combat, or you may chose to sway a conversation in a specific sides favour.

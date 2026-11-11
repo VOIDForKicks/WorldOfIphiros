@@ -1,0 +1,8 @@
+[[Cutlass Depths]]
+[[Draconic Bow]]
+[[Time Splitter]]
+[[Aegis Hades]]
+[[Life Forger]]
+[[Staff of Knowledge]]
+[[Daggs's pistol]]
+[[Stormbringer]]

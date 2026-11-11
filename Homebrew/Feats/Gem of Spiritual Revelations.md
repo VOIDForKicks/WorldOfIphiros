@@ -1,0 +1,3 @@
+Eye of Revelation: You can identify magical items or enchantments simply by focusing on them. You may cast the Identify spell without components, but only through the eye. You must focus for 1 minute, during which the eye glows and faint arcane symbols drift around the item. If an item is cursed, the ruby flashes darkly, hinting at hidden danger but not revealing the full curse.
+
+Gem of Soulsight: You can glimpse the spiritual residue of places and objects. Once per long rest, activate the eyes innate powers to peer into the spiritual realm casting either speak with dead or legend lore.

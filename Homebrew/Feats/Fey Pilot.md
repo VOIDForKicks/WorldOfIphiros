@@ -1,0 +1,3 @@
+While you are not in your mech you may use your bonus action to issue a command to the mech (see action list / movement doesn't count).
+
+Moving more than 5ft away from the mech starts its power down timer (1 min/10 rounds of combat ) entering the 5ft range stops and restarts to countdown. Being outside the mech creates an exact copy of the weapon the mech is using for the pilot (scales to appropriate size).

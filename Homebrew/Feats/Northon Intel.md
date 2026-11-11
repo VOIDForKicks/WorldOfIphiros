@@ -1,0 +1,1 @@
+You can use your connections to send out 3 informants to gather info for you. The significance of the information will increase or decrease the time the informants take sending multiple informants after the same info decreases the time they take to gather it.

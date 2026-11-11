@@ -1,0 +1,7 @@
+[[Letter Template 1 - The Urgent Call to Adventure (Quest Giver)]]
+[[Letter Template 2 - The Rough & Casual Note]]
+[[Letter Template 3 - The Cryptic or Ominous Warning]]
+[[Letter Template 4 - The Villainous Plot (The Conspiracy)]]
+[[Letter Template 5 - The Desperate Plea (Allies under Siege)]]
+[[Letter Template 6 - The Secret Romance or Forbidden Alliance]]
+[[Letter Template 7 - The Extermination Plan]]
